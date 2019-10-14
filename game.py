@@ -1,4 +1,4 @@
-from random import random
+from random import randnt
 """Give a name and make comments"""
 def initCache(nbColors=6,nbPawns=4):
     retrn [randint(1,nbColors) for i in range(nbPawns)]
